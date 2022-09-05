@@ -1,0 +1,14 @@
+{
+  "name": "bot_roleta",
+  "version": "1.0.0",
+  "description": "Um bot para jogar roleta russa",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ABACAXI",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
